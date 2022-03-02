@@ -1,0 +1,52 @@
+html {
+    background-color:#ff7777;
+    
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    padding: 15px 0 15px;
+    border: gray 8px solid;
+    margin-top: 35px;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+    padding: 35px 0 15px;
+    text-align: center;
+
+}
+
+p {
+    font-size: 20px;
+    line-height: 2;
+    font-family: 'Hubballi', cursive;
+}
+.creepy{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+img.creepy{
+    display: block;
+    padding:0;
+    border-top:rgb(170, 17, 17) 5px solid;
+    border-right:rgb(170, 147, 17) 5px solid;
+    border-left:rgb(17, 147, 170) 5px solid;
+    border-bottom:rgb(170, 17, 170) 5px solid;
+    margin: 10px auto;
+}
+
+li{
+    font-size: 20px;
+    font-family: 'Hubballi', cursive;
+    margin:5px;
+}
+
+.red {
+    /* I called the class red, but it's actually BLUE! MWAHAHAHAHAHHA! */
+    color: darkslateblue;
+}
